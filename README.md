@@ -28,4 +28,8 @@
  app\build\outputs\apk\debug\app-debug.apk
  ```
 
+![Главный экран - нет добаленных городов](./screensApp//activity_main.jpg)
 
+![Добавление города - карта](./screensApp//activity_map.jpg)
+
+![Главный экран - добавлен город](./screensApp//city_item.jpg)
