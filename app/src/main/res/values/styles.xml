@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Фиксированный цвет (например, #6200EE — фиолетовый из Material Design) -->
+        <item name="android:statusBarColor">#262626</item>
+
+        <!-- Отключаем прозрачность -->
+        <item name="android:windowTranslucentStatus">false</item>
+
+        <!-- Для светлого текста в статус-баре (если цвет тёмный) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+
+</resources>

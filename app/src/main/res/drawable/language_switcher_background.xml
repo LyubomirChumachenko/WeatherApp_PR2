@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#222222" /> <!-- Темный фон контейнера -->
+    <corners android:radius="20dp" /> <!-- Более закругленные углы -->
+</shape>
